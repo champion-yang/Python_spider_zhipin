@@ -1,2 +1,2 @@
-# Python_spider_zhilian
-爬取智联招聘的招聘信息
+# Python_spider_zhipin
+爬取boss直聘的招聘信息
